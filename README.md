@@ -51,7 +51,7 @@ Actualmente soy estudiante de último año en la escuela PRoA técnica de mi ciu
   * _Creativo_
   * _Trabajo en equipo_
   * _Adaptabilidad_
-  * _Soluci{on de problemas_
+  * _Solucion de problemas_
   * _Inovación_ 
 
 
