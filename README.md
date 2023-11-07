@@ -5,9 +5,6 @@
                
 * Telefono: +54 9 3564 686432
 * lucaponteprimo04@gmail.com
-* José Lencina 1743
-* San Francisco, Córdoba
-* Argentina
 
 
 &nbsp;
@@ -15,7 +12,7 @@
 
 ### &nbsp;&nbsp;&nbsp; Perfil
 #### Me llamo Luca Ponteprimo, tengo 18 años. Vivo en San Francisco, Córdoba, Argentina.
-Actualmente soy estudiante de último año en la escuela PRoA técnica de mi ciudad.
+Actualmente soy estudiante de último año en la escuela PRoA técnica.
 
 
 &nbsp;
@@ -24,7 +21,7 @@ Actualmente soy estudiante de último año en la escuela PRoA técnica de mi ciu
 
 
 ### &nbsp;&nbsp;&nbsp; Educación
- #### Secundaria Escuela PRoA Técnica San Francisco 2017- presente
+ #### Secundaria Escuela PRoA Técnica San Francisco 2017 - presente
 
 
  &nbsp;
@@ -59,7 +56,7 @@ Actualmente soy estudiante de último año en la escuela PRoA técnica de mi ciu
 
 
 ### &nbsp;&nbsp;&nbsp; Idioma
- * Español : nativo
+ * Español : Nativo
  * Inglés : Avanzado
  * Portugués: Básico
 
