@@ -3,7 +3,7 @@
 
 
                
-* Telefono: +54 9 3564 686432
+
 * lucaponteprimo04@gmail.com
 
 
