@@ -1,5 +1,5 @@
 # <center> _Luca Ponteprimo_</center>  
-###### <center> Estudiante </center>
+
 
 
                
@@ -11,8 +11,8 @@
 
 
 ### &nbsp;&nbsp;&nbsp; Perfil
-#### Me llamo Luca Ponteprimo, tengo 18 años. Vivo en San Francisco, Córdoba, Argentina.
-Actualmente soy estudiante de último año en la escuela PRoA técnica.
+#### Me llamo Luca Ponteprimo, tengo 18 años.
+
 
 
 &nbsp;
@@ -21,29 +21,31 @@ Actualmente soy estudiante de último año en la escuela PRoA técnica.
 
 
 ### &nbsp;&nbsp;&nbsp; Educación
- #### Secundaria Escuela PRoA Técnica San Francisco 2017 - presente
+ #### Secundaria Escuela PRoA Técnica San Francisco
 
 
  &nbsp;
 
 
  ###  &nbsp; &nbsp;  Habilidades
- #### Tengo conocimientos en programación, gracias al colegio en el que me estoy formando.
+ #### Hard skills.
+  * React
   * HTML
   * CSS
   * JavaScript
-  * Python
+  * Node js
+  * Mongo DB
   * PHP
   * SQL
   * C#
-  * React
+
 
   &nbsp;
 
 
 
 
- ### &nbsp;&nbsp;&nbsp; Competencias
+ ### &nbsp;&nbsp;&nbsp; Soft skills
   * _Capacidad de aprendizaje_
   * _Creativo_
   * _Trabajo en equipo_
