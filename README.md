@@ -14,8 +14,8 @@
 
 
 ### &nbsp;&nbsp;&nbsp; Perfil
-#### Me llamo Luca Ponteprimo, tengo 18 años.
-
+#### Me llamo Luca Ponteprimo, tengo 19 años.
+#### Soy técnico en programación y un apasionado por este mundo.
 
 
 &nbsp;
