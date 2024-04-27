@@ -1,70 +1,30 @@
-# <center> _Luca Ponteprimo_</center>  
+<h1 align="center">Hi 👋, I'm Luca Ponteprimo</h1>
+<h3 align="center">A passionate backend developer from Argentina</h3>
 
+- 🔭 I’m currently working on ["CoinTracker" my own financial app](https://github.com/PhariusHS/financialApp)
 
+- 🌱 I’m currently learning **backend architecture**
 
-               
-# Contacto 
-* lucaponteprimo04@gmail.com
+- 🤝 I’m looking for help with **open source code and improve myself**
 
-# Mi portfolio
-* lucaponteprimo.vercel.app
+- 👨‍💻 All of my projects are available at [https://lucaponteprimo.vercel.app](https://lucaponteprimo.vercel.app)
 
+- 📖 I'm looking to learn **C# - Kubernetes**
 
-&nbsp;
+- 📫 How to reach me **ponteprimoluca@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/luca-ponteprimo-013a9b274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/luca-ponteprimo-013a9b274" height="30" width="40" /></a>
+</p>
 
-### &nbsp;&nbsp;&nbsp; Perfil
-#### Me llamo Luca Ponteprimo, tengo 19 años.
-#### Soy técnico en programación y un apasionado por este mundo.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phariushs&show_icons=true&locale=en&layout=compact" alt="phariushs" /></p>
 
-&nbsp;
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phariushs&show_icons=true&locale=en" alt="phariushs" /></p>
 
-
-
-
-### &nbsp;&nbsp;&nbsp; Educación
- #### Secundaria Escuela PRoA Técnica San Francisco
-
-
- &nbsp;
-
-
- ###  &nbsp; &nbsp;  Habilidades
- #### Hard skills.
-  * React
-  * HTML
-  * CSS
-  * JavaScript
-  * Node js
-  * Mongo DB
-  * PHP
-  * SQL
-  * C#
-
-
-  &nbsp;
-
-
-
-
- ### &nbsp;&nbsp;&nbsp; Soft skills
-  * _Capacidad de aprendizaje_
-  * _Creativo_
-  * _Trabajo en equipo_
-  * _Adaptabilidad_
-  * _Solucion de problemas_
-  * _Inovación_ 
-
-
-&nbsp;
-
-
-### &nbsp;&nbsp;&nbsp; Idioma
- * Español : Nativo
- * Inglés : Avanzado
- * Portugués: Básico
-
-&nbsp;
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phariushs&" alt="phariushs" /></p>
 
 
