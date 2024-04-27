@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca Ponteprimo</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 🔭 I’m currently working on ["CoinTracker" my own financial app](https://github.com/PhariusHS/financialApp)
+- 🔭 I’m currently working on ["CoinTracker" - My own financial app](https://github.com/PhariusHS/financialApp)
 
 - 🌱 I’m currently learning **backend architecture**
 
