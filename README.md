@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on ["CoinTracker" - My own financial app](https://github.com/PhariusHS/financialApp)
 
-- 🌱 I’m currently learning **backend architecture**
+- 🌱 I’m currently learning **C# - Angular**
 
 - 🤝 I’m looking for help with **open source code and improve myself**
 
 - 👨‍💻 All of my projects are available at [https://lucaponteprimo.vercel.app](https://lucaponteprimo.vercel.app)
 
-- 📖 I'm looking to learn **C# - Kubernetes**
+- 📖 I'm looking to learn **Cloud computing**
 
 - 📫 How to reach me **ponteprimoluca@gmail.com**
 
