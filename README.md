@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on learning :D
 
-- 🌱 I’m currently learning **Java - Angular**
+- 🌱 I’m currently learning **Java - Springboot - Microservices**
 
 - 🤝 I’m looking for help with **open source code and improve myself**
 
