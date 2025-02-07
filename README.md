@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luca Ponteprimo</h1>
-<h2align="center">A passionate backend developer from Argentina</h2>
+<h2 align="center">A passionate backend developer from Argentina</h2>
 
 - 🌱 I’m currently learning **Java - Springboot - Microservices**
 
